@@ -12,9 +12,12 @@ I care about making data not just useful, but understandable. Whether it's a pro
 
 **Languages & Tools**: Python, JavaScript, Java, SQL, Pandas, NumPy, scikit-learn, Tableau, Excel
 
-![Glerys's GitHub Stats](https://github-readme-stats.vercel.app/api?username=glrryys&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=glrryys&show_icons=true&theme=default" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glrryys&layout=compact" width="45%" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glrryys&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=glrryys)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=glrryys" width="45%" />
+</p>
 
