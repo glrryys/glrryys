@@ -1,8 +1,8 @@
 ![Header](https://github.com/glrryys/glrryys/blob/main/header.png?raw=true)
 
-## 🧠 About Me
+This is truly my professional diary of programming! 
 
-Hi, I'm Glerys — a curious and passionate data enthusiast who believes that behind every dataset is a powerful story waiting to be told.
+## 🧠 About Me
 
 I'm especially drawn to:
 - 📊 **Data Analysis** 
